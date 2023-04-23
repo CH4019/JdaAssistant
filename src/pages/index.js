@@ -3,9 +3,9 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import "animate.css";
 import styles from './index.module.css';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -18,13 +18,28 @@ function HomepageHeader() {
         <div class="animate__animated animate__fadeInUp">
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
-        <div className={styles.buttons}>
-          <div class="animate__animated animate__fadeInUp">
-            <Link
-              className="button button--secondary button--lg"
-              to="/docs">
-              点击前往Wiki👆
-            </Link>
+        <div className="container">
+          <div className={styles.features}>
+            <div className="row">
+              <div className={styles.buttons}>
+                <div class="animate__animated animate__fadeInUp">
+                  <Link
+                    className="button button--secondary button--lg"
+                    to="/docs">
+                    点击前往主页 👆
+                  </Link>
+                </div>
+              </div>
+              <div className={styles.buttons}>
+                <div class="animate__animated animate__fadeInUp">
+                  <Link
+                    className="button button--secondary button--lg"
+                    to="/docs/Wiki">
+                    点击前往Wiki👆
+                  </Link>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -41,6 +56,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+
       </main>
     </Layout>
   );

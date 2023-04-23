@@ -15,7 +15,12 @@ import DocCardList from '@theme/DocCardList';
 
 :::
 
-![1](https://user-assets.sxlcdn.com/images/774616/FmOW89yIhan-EG0UPX5DimMsHuHs.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/format/png)
+<!-- ![1](https://user-assets.sxlcdn.com/images/774616/FmOW89yIhan-EG0UPX5DimMsHuHs.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/format/png) -->
+  
+
+  
+![1](https://i.328888.xyz/2023/04/21/ihWxzq.png)
+
 
 ## 建大助手
 
