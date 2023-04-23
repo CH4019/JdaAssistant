@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '建大助手',
   tagline: 'Easy to use',
-  favicon: 'img/icon.ico',
+  favicon: 'img/icon_1.ico',
 
   // Set the production url of your site here
   url: 'https://ch4019.github.io',
@@ -73,7 +73,7 @@ const config = {
         title: '建大助手',
         logo: {
           alt: 'JdaAssistant Logo',
-          src: 'img/icon.svg',
+          src: 'img/icon_2.svg',
         },
         items: [
           {

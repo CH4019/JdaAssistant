@@ -1,127 +1,41 @@
-# JdaAssistant
-建大助手官方文档
+# Website
 
-## 前置要求
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-1. 会简单的js
-
-2. 会简单的html
-
-3. 会简单的css
-
-4. 了解react开发
-
-5. 会在互联网学习相关知识
-
-## 项目开发准备
-
-1. 安装 node.js
-
-2. 安装 npm
-
-3. 新建项目文地址，用来安装项目文件夹，例：E:\github
-
-4. 打开命令行
-
-5. 进入项目地址(每行输完后回车)
+### Installation
 
 ```
-
-E:
-
-cd E:\github
-
+$ yarn
 ```
 
-6. 创建项目
+### Local Development
 
 ```
-
-npx create-docusaurus@latest jdaassistant classic
-
+$ yarn start
 ```
 
-7. 下载本仓库的main分支的所有文件到项目文件夹里，重复文件请选择替换文件
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## 开发过程
+### Build
 
-* 开发
+```
+$ yarn build
+```
 
-1. 运行网站
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-   ```
+### Deployment
 
-   cd jdaassistant
+Using SSH:
 
-   npm start
+```
+$ USE_SSH=true yarn deploy
+```
 
-   ```
+Not using SSH:
 
-2. 使用编辑器编辑，浏览器实时显示
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
 
-* Build
-
- 
-
-  npm：
-
-   ```
-
-   npm run build
-
-   ```
-
-   或
-
-   yarn：
-
-   ```
-
-   yarn build
-
-   ```
-
-   或
-
-   pnpm：
-
-   ```
-
-   pnpm run build
-
-   ```
-
-* 本地测试
-
-  npm：
-
-  ```
-
-  npm run serve
-
-  ```
-
-  yarn：
-
-  ```
-
-  yarn serve
-
-   ```
-
-   pnpm：
-
-   ```
-
-   pnpm run serve
-
-   ```
-
-## 注意
-
-1. 开发过程中建议备份项目文件
-
-2. 最后build文件为静态的，故请自行调试生成的文件
-
-3. 详情请参考[Docusaurus](https://docusaurus.io/zh-CN/)官网文档
-
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
