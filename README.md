@@ -3,22 +3,15 @@
 
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+本官网使用 [Docusaurus 2](https://docusaurus.io/)进行构建.使用第三方平台自动化部署托管
 
-### Installation
+## 前置要求（会自学即可）
 
-```
-$ yarn
-```
+1. 了解简单的js
 
+2. 了解简单的html
 
-## 前置要求
-
-1. 会简单的js
-
-2. 会简单的html
-
-3. 会简单的css
+3. 了解简单的css
 
 4. 了解react开发
 
@@ -47,11 +40,14 @@ cd E:\github
 npx create-docusaurus@latest jdaassistant classic
 ```
 
-7. 下载本仓库的main分支的所有文件到项目文件夹里，重复文件请选择替换文件
+7. fork本仓库的main分支的所有文件到项目文件夹里，重复文件请选择替换文件（本仓库文件仅不包含node_modules文件夹）
 
 ## 开发过程
 
-* 开发
+### 开发
+
+
+### 测试
 
 1. 运行网站
 
@@ -59,14 +55,17 @@ npx create-docusaurus@latest jdaassistant classic
    cd jdaassistant
    $ yarn start
    ```
+   或
+   ```
+   cd jdaassistant
+   $ npm start
+   ```
 
 2. 使用编辑器编辑，浏览器实时显示
 
-* Build
+### Build（构建）
 
-
-
-  npm：
+   npm：
 
    ```
    npm run build
@@ -88,25 +87,30 @@ npx create-docusaurus@latest jdaassistant classic
    pnpm run build
    ```
 
-* 本地测试
+### 本地运行测试
 
-  npm：
+   npm：
 
-  ```
-  npm run serve
-  ```
-
-  yarn：
-
-  ```
-  yarn serve
    ```
+   npm run serve
+   ```
+   或
+
+   yarn：
+
+   ```
+   yarn serve
+   ```
+   或
 
    pnpm：
 
    ```
    pnpm run serve
    ```
+### 提交
+
+`请把最后编写的文件提交到仓库的相应部分`(仅上传新增文件，请勿上传已有项目文件)
 
 ## 注意
 
