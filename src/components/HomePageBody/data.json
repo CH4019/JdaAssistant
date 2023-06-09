@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Sponsor 1",
+      "description": " sponsor description ...", 
+      "url": "https://sponsor.url/",
+      "logo": "sponsor1.png"
+    },
+    {
+      "name": "Sponsor 2",
+      "description": " sponsor description ...", 
+      "url": "https://sponsor.url/",
+      "logo": "sponsor2.png" 
+    }
+  ]
