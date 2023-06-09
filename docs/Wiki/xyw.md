@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 1/11/2023
+  date: 6/9/2023
   author: CH4019
 tags: [建大助手, Wiki,校园网]
 
