@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: 清单
+title: 物品清单
 last_update:
   date: 6/11/2023
   author: CH4019
