@@ -1,6 +1,8 @@
 # JdaAssistant
 建大助手官方文档
 
+>已停用github网页托管（ch4019.github.io/JdaAssistant）该测试版网站已停用，请使用官方地址[建大助手官网](https://jdaassistant.ch4019.fun/)
+
 # Website
 
 本官网使用 [Docusaurus 2](https://docusaurus.io/)进行构建.使用第三方平台自动化部署托管
