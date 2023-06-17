@@ -10,7 +10,7 @@ const FeatureList = [
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        建大助手(<code>JdaAssistant</code>) 旨在服务用户，帮他们更快，更方便地拥抱校园生活。
+        Jda助手(<code>JdaAssistant</code>) 旨在服务用户，帮他们更快，更方便地拥抱校园生活。
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree_2.svg').default,
     description: (
       <>
-        建大助手(<code>JdaAssistant</code>) 解放双手，提高效率, 我们来收集信息，你只需查看结果。
+        Jda助手(<code>JdaAssistant</code>) 解放双手，提高效率, 我们来收集信息，你只需查看结果。
       </>
       //we&apos;ll
     ),
@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        通过使用<a href="https://docusaurus.io/zh-CN" target="_blank" class='a'>docusaurus</a>技术来扩展或制定本网站。同时使用<a href="https://animate.style" target="_blank" class='a'>Animate.css</a>来丰富UI。
+        通过使用<a href="https://docusaurus.io/zh-CN" target="_blank" class='a'>docusaurus</a>技术来扩展或制定本网站。同时使用<a href="https://animate.style" target="_blank" class='a'>Animate.css</a>来添加动画。
       </>
     ),
   },

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '建大助手',
+  title: 'Jda助手',
   tagline: 'Easy to use',
   favicon: 'img/icon_1.ico',
 
@@ -70,7 +70,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '建大助手',
+        title: 'Jda助手',
         logo: {
           alt: 'JdaAssistant Logo',
           src: 'img/icon_2.svg',
