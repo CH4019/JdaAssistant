@@ -1,48 +1,35 @@
 # JdaAssistant
+
 建大助手官方文档
 
 >已停用github网页托管（ch4019.github.io/JdaAssistant）该测试版网站已停用，请使用官方地址[建大助手官网](https://jdaassistant.ch4019.fun/)
 
 # Website
 
-本官网使用 [Docusaurus 2](https://docusaurus.io/)进行构建.使用第三方平台自动化部署托管
+本官网使用 [Docusaurus 2](https://docusaurus.io/)进行构建.使用vercel平台自动化部署托管
 
 ## 前置要求（会自学即可）
 
-1. 了解简单的js
-
-2. 了解简单的html
-
-3. 了解简单的css
-
-4. 了解react开发
-
-5. 会在互联网学习相关知识
+- 请前往[Docusaurus 2](https://docusaurus.io/)网站查看（会基本即可）
 
 ## 项目开发准备
 
 1. 安装 node.js
 
-2. 安装 npm
+2. 安装 npm 或 yarn
 
-3. 新建项目文地址，用来安装项目文件夹，例：E:\github
+3. 创建项目环境
 
-4. 打开命令行
+   ```
+   npx create-docusaurus@latest jdaassistant classic
+   ```
+4. clone本仓库的main分支的所有文件到项目文件夹里，重复文件请选择替换文件（本仓库文件仅不包含node_modules文件夹）
 
-5. 进入项目地址(每行输完后回车)
+- 请单独安装使用的其他包：
 
-```
-E:
-cd E:\github
-```
-
-6. 创建项目
-
-```
-npx create-docusaurus@latest jdaassistant classic
-```
-
-7. fork本仓库的main分支的所有文件到项目文件夹里，重复文件请选择替换文件（本仓库文件仅不包含node_modules文件夹）
+   | animate.css | 暂无 |
+   | :----: | :----: |
+   | [animate官网](https://docusaurus.io/zh-CN) | 暂无 |
 
 ## 开发过程
 
@@ -81,14 +68,6 @@ npx create-docusaurus@latest jdaassistant classic
    yarn build
    ```
 
-   或
-
-   pnpm：
-
-   ```
-   pnpm run build
-   ```
-
 ### 本地运行测试
 
    npm：
@@ -103,16 +82,10 @@ npx create-docusaurus@latest jdaassistant classic
    ```
    yarn serve
    ```
-   或
 
-   pnpm：
-
-   ```
-   pnpm run serve
-   ```
 ### 提交
 
-`请把最后编写的文件提交到仓库的相应部分`(仅上传新增文件，请勿上传已有项目文件)
+`请把最后编写的文件提交到仓库的相应部分`(请勿上传node_modules文件)
 
 ## 注意
 
