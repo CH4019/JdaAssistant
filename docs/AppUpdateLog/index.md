@@ -16,10 +16,10 @@ import DocCardList from '@theme/DocCardList';
 :::
 
 <!-- ![1](https://user-assets.sxlcdn.com/images/774616/FmOW89yIhan-EG0UPX5DimMsHuHs.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/format/png) -->
-  
 
-  
-![1](https://i.328888.xyz/2023/04/21/ihWxzq.png)
+
+
+![1](/img/icon_1.png)
 
 
 ## 建大助手
@@ -29,6 +29,10 @@ import DocCardList from '@theme/DocCardList';
 使用网页转应用软件对学校网页进行打包实现在安卓端无需进入浏览器网页打开官网功能
 
 :::
+
+### 软件下载
+
+[2.4.7最新版下载](https://github.com/CH4019/xinximenhu/releases/download/2.4.7/_2.4.7_release.apk)
 
 ![2](https://user-assets.sxlcdn.com/images/774616/lnZj8R3WRlGq4uzsfFrVY-OwXA8D.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png)
 
