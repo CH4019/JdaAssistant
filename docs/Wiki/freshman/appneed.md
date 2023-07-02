@@ -2,7 +2,7 @@
 sidebar_position: 4
 title: 软件使用
 last_update:
-  date: 6/21/2023
+  date: 7/2/2023
   author: CH4019
 tags: [建大助手, Wiki,新生入学，在校必装软件]
 
