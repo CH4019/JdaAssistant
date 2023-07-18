@@ -14,4 +14,6 @@ import DocCardList from '@theme/DocCardList';
 
 ![2023-2024学年校历](/img/day.jpg)
 
+## Wiki列表
+
 <DocCardList />
