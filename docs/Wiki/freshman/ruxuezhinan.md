@@ -31,12 +31,12 @@ tags: [建大助手, Wiki,新生入学，新生入学指南]
 
 ![1](/img/7.png)
 
-![1](/img/8.png)
+![1](/img/8.jpg)
 
-![1](/img/9.png)
+![1](/img/9.jpg)
 
-![1](/img/10.png)
+![1](/img/10.jpg)
 
-![1](/img/11.png)
+![1](/img/11.jpg)
 
-![1](/img/12.png)
+![1](/img/12.jpg)
