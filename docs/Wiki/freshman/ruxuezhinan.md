@@ -2,7 +2,7 @@
 sidebar_position: 4
 title: 新生入学指南
 last_update:
-  date: 7/218/2023
+  date: 7/18/2023
   author: CH4019
 tags: [建大助手, Wiki,新生入学，新生入学指南]
 
