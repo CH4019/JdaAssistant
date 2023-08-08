@@ -113,15 +113,15 @@ tags: [建大助手, Wiki, 社团简介]
 
 - [飙风轮滑社](http://mp.weixin.qq.com/s?__biz=MzU4NjIzNjE0OA==&mid=2247489101&idx=1&sn=e7f7c05e5b1107b44b418c9f2c6c6a98&chksm=fdff3fd6ca88b6c0dc51717202d2b5c5cf0bf67f3015b4c2b39b55a9357a0f6738876eb492a2&scene=21#wechat_redirect)
 
-- [景园创新课堂]()
+- 景园创新课堂
 
-- [星墨手绘动漫社]()
+- 星墨手绘动漫社
 
-- [嘻哈 hiphop 研究社]()
+- 嘻哈 hiphop 研究社
 
 ## 创新创业类
 
-- [大学生创新创业协会]()
+- 大学生创新创业协会
 
 ## 思想政治类
 
