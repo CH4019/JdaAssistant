@@ -18,7 +18,7 @@ tags: [建大助手, Wiki, VPN]
 
     EasyConnect
 
-![EasyConnect](/static/img/EasyConnect.jpg)
+![EasyConnect](/img/EasyConnect.jpg)
 
 ## Vpn 软件下载地址
 
