@@ -7,7 +7,7 @@ import "animate.css";
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import { inject } from '@vercel/analytics';
- 
+
 inject();
 
 function HomepageHeader() {
@@ -39,6 +39,15 @@ function HomepageHeader() {
                     className="button button--secondary button--lg"
                     to="/docs/Wiki">
                     点击前往Wiki👆
+                  </Link>
+                </div>
+              </div>
+              <div className={styles.buttons}>
+                <div class="animate__animated animate__fadeInUp">
+                  <Link
+                    className="button button--secondary button--lg"
+                    to="https://github.com/CH4019/JdaAssist/releases/latest">
+                    下载App 👆
                   </Link>
                 </div>
               </div>
