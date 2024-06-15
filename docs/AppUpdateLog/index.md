@@ -6,6 +6,7 @@ last_update:
 tags: [建大助手, Jda Assist]
 ---
 import DocCardList from '@theme/DocCardList';
+import { Analytics } from "@vercel/analytics/react"
 
 # Jda Assist(建大助手App)
 
@@ -41,3 +42,5 @@ import DocCardList from '@theme/DocCardList';
 ### 更新日志：
 
 <DocCardList />
+
+<Analytics/>

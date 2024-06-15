@@ -8,6 +8,8 @@ tags: [建大助手, Wiki,新生入学]
 
 ---
 import DocCardList from '@theme/DocCardList';
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 新生入学部分汇总
 :::info

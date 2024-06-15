@@ -6,6 +6,8 @@ last_update:
   author: CH4019
 tags: [建大助手, Wiki, 社团简介]
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 :::info
 

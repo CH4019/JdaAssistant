@@ -7,6 +7,8 @@ last_update:
 tags: [建大助手, Wiki,新生入学，清单]
 
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 关于入学需要准备的物品的清单
 

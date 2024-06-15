@@ -7,6 +7,8 @@ tags: [建大助手, Wiki, 校历]
 
 ---
 import DocCardList from '@theme/DocCardList';
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # Wiki
 

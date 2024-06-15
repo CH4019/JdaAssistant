@@ -5,6 +5,8 @@ last_update:
   author: CH4019
 tags: [建大助手, Wiki, 校园卡,一卡通]
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 关于学校校园卡相关的介绍
 

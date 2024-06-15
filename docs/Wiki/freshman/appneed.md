@@ -7,6 +7,8 @@ last_update:
 tags: [建大助手, Wiki,新生入学，在校必装软件]
 
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 在校必备软件列表
 

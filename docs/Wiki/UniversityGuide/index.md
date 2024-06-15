@@ -8,6 +8,8 @@ tags: [建大助手, Wiki,学校简介]
 
 ---
 import DocCardList from '@theme/DocCardList';
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 学校简介
 

@@ -6,6 +6,8 @@ last_update:
 tags: [建大助手, Wiki,校园网]
 
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 关于学校校园网相关的介绍
 

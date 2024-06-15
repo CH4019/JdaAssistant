@@ -5,6 +5,8 @@ last_update:
   author: CH4019
 tags: [建大助手, Wiki, VPN]
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 校园内网 VPN
 

@@ -7,6 +7,8 @@ last_update:
 tags: [建大助手, Wiki,新生入学，清入学流程]
 
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 入学流程
 

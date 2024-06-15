@@ -6,6 +6,8 @@ last_update:
 tags: [建大助手]
 ---
 import DocCardList from '@theme/DocCardList';
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # App旧版更新日志
 

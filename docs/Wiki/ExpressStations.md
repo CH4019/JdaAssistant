@@ -6,6 +6,8 @@ last_update:
 tags: [建大助手, Wiki,快递站]
 
 ---
+import { Analytics } from "@vercel/analytics/react"
+<Analytics/>
 
 # 关于校园快递的介绍
 
