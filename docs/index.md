@@ -7,6 +7,7 @@ title: Home
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import { Analytics } from "@vercel/analytics/react"
 
 # 建大助手/JdaAssistant
 
@@ -114,3 +115,5 @@ buy a cup of coffee :heart:
 ## Community
 
 Users and the development team are usually in the [QQ or QQ channel](https://pd.qq.com/s/fb4hyfdm1).
+
+<Analytics/>
