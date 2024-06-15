@@ -6,9 +6,10 @@ import Layout from '@theme/Layout';
 import "animate.css";
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import { inject } from '@vercel/analytics';
+// import { inject } from '@vercel/analytics';
+import { Analytics } from "@vercel/analytics/react"
 
-inject();
+// inject();
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -69,7 +70,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-
+        <Analytics/>
       </main>
     </Layout>
   );
