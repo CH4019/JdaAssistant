@@ -98,7 +98,7 @@ const config = {
             title: '🏡主页/Home',
             items: [
               {
-                label: 'App更新日志',
+                label: 'Jda Assist(建大助手App)',
                 to: '/docs/AppUpdateLog',
               },
               {
