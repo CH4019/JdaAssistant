@@ -67,10 +67,10 @@ export default function Home() {
     <Layout
       title={` ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
+        <Analytics mode={'production'}/>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <Analytics/>
       </main>
     </Layout>
   );
