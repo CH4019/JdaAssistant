@@ -12,9 +12,9 @@ import { Analytics } from "@vercel/analytics/react"
 
 # Wiki
 
-## 2023-2024学年校历
+## 2024-2025学年校历
 
-![2023-2024学年校历](/img/day.jpg)
+![2024-2025学年校历](/img/2024-2025.jpg)
 
 ## Wiki列表
 
