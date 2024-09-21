@@ -3,10 +3,10 @@ sidebar_position: 3
 last_update:
   date: 9/22/2024
   author: CH4019
-tags: [建大助手, Jda Assist, 隐私协议]
+tags: [建大助手, Jda Assist, 隐私政策]
 ---
 
-# Jda Assist隐私协议
+# Jda Assist隐私政策
 
 更新时间：2024 年 9 月 22 日
 
